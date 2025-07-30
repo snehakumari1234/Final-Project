@@ -1,5 +1,6 @@
 Final Project: Student Performance Analyzer (SPA)
 
+
 🔍 What is Jupyter Notebook?
 
 Jupyter Notebook is an open-source web-based interactive computing platform that allows users to create and share documents that contain:
@@ -14,6 +15,7 @@ Jupyter Notebook is an open-source web-based interactive computing platform that
 
 
 It supports many programming languages, but is most commonly used with Python.
+
 
 
 
@@ -76,6 +78,7 @@ Combines theory with executable examples.
 Can be extended with plugins and extensions (e.g., JupyterLab, JupyterHub for teams).
 
 
+
 🧑‍🏫 Who Uses It?
 
 •Data Scientists
@@ -87,6 +90,7 @@ Can be extended with plugins and extensions (e.g., JupyterLab, JupyterHub for te
 •Machine Learning Engineers
 
 •Analysts
+
 
 
 
