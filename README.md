@@ -79,6 +79,7 @@ Can be extended with plugins and extensions (e.g., JupyterLab, JupyterHub for te
 
 
 
+
 🧑‍🏫 Who Uses It?
 
 •Data Scientists
@@ -93,6 +94,17 @@ Can be extended with plugins and extensions (e.g., JupyterLab, JupyterHub for te
 
 
 
+✅ How to Run
+Clone this repo or download it.
+
+Run the Jupyter Notebook (.ipynb) in VS Code or Jupyter.
+
+Install required libraries with:
+
+pip install -r requirements.txt
+
+
+
 
 ✅ Advantages
 
@@ -103,5 +115,12 @@ Clear combination of code and explanation.
 Ideal for step-by-step learning and experimentation.
 
 Promotes reproducible research.
+
+
+🙋‍♂️ Author
+• Sneha Kumari
+• 
+
+
 
 
